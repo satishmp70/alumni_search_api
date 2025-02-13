@@ -11,6 +11,10 @@ request : -  {"id" : 1, "name" : "John d", "email" : "john1@example.com", "latit
 response : -  {"success":true,"message":"User updated","data":[]}
 
 
+
+
+
+
 # api :- Find alumni geographically close to the current
 user, based on a specified radius.
 
