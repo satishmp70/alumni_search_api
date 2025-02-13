@@ -1,7 +1,7 @@
 # alumni_search_api
 
 
-#To update a userʼs details, such as name, email, and location.
+# To update a userʼs details, such as name, email, and location.
 
 url :- 
 http://localhost/alumni-search-api/routes/update_user.php
